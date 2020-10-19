@@ -1,0 +1,145 @@
+<div class='header' style="width: 100%;">
+    <div class="about-section" style="background-image: url(food1.jpg); background-repeat: no-repeat; background-size: cover; z-index: -1; position: absolute; filter: blur(4px); border: none;"></div>
+        
+     <div class="heading">
+       
+         <h1 style='text-align: center; font-size: 80px; padding-top: 75px; color: white; font-family:"Arial Black", Gadget, sans-serif; font-style: italic; z-index: 1; position: relative; top: 100px; left: 20px;'>Abhi Restaurant</h1>
+         
+         <div class='search' style="margin-top: 25px; margin-right: 90px; text-align: center; position: relative; top: 110px; left: 80px;">
+        
+          <input style="height: 50px; width: 500px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; font-size: 20px; padding: 10px;" type="text" placeholder="search">
+          <button type="submit" style="height: 50px; position: relative; bottom:4px; background-color: #2e0606; border-radius: 4px; width: 100px; color:white; cursor: pointer">Search</button>
+         
+         </div>    
+    
+     </div>
+ </div>
+     
+ <div class="container-fluid" style="height: 300px;  position: relative; top: 300px; left: 10px; margin-bottom: 20px; background-color: black; margin-left: 0;">
+     
+     <div class="row" style="align-content: center;">
+       <div class="col-4" >
+        <div class="card" style="width: 250px; height: 260px; border: 2px solid #ccc; border-radius: 6px; text-align: center;">
+
+          <a href="order-online.html"><img alt='Order Online' src="order-online.jpg" alt="Jane" style="width:245px; height: 200px;">
+          <p style="font-size: 20px; color: black">Order Online</p></a>
+        </div>
+       </div>
+       <div class="col-4">
+        <div class="card" style="width: 250px; height: 260px; border: 2px solid #ccc; border-radius: 6px; text-align: center;">
+            
+           <a href="#"><img alt='Order Online' src="book-table.jpg" alt="Jane" style="width:245px; height: 200px;">
+           <p style="font-size: 20px; color: black">Book a table</p></a>
+        </div>
+       </div>
+    </div>
+</div>
+     
+<div class="contanier" style="height: 450px; width: 1140; position: relative; top: 280px; left: 0px; text-align: center; background-color: red; margin-top: 100px;">
+    
+   <div class="special">
+      <h1 style="font-size: 50px; text-align: center;">Our Specialities</h1>
+   </div>
+   <div class="row my-5" style="align-content: center; position: relative; top: 20px; left: 140px;">
+      <div class="col-2 mx-5">
+         <div class="card" style="width: 300px; height: 280px; border: 2px solid #ccc; border-radius: 6px;">
+          <img alt='Order Online' src="pasta.jpg" alt="Jane" style="width:295px; height: 200px;">
+           <p style="font-size: 20px; color: black">Red Sauce Pasta</p>
+        </div>
+         
+      </div>   
+      <div class="col-2 mx-5">
+         <div class="card" style="width: 300px; height: 280px; border: 2px solid #ccc; border-radius: 6px;">
+          <img alt='Order Online' src="paneer.jpg" alt="Jane" style="width:295px; height: 200px;">
+           <p style="font-size: 20px; color: black">Palak Paneer</p>
+        </div>
+         
+      </div> 
+      <div class="col-2 mx-5">
+         <div class="card" style="width: 300px; height: 280px; border: 2px solid #ccc; border-radius: 6px;">
+          <img alt='Order Online' src="pizza.jpg" alt="Jane" style="width:295px; height: 200px;">
+           <p style="font-size: 20px; color: black">Cheese Burst Pizza</p>
+        </div>
+         
+      </div> 
+      <div class="col-2 mx-5">
+         <div class="card" style="width: 300px; height: 280px; border: 2px solid #ccc; border-radius: 6px;">
+          <img alt='Order Online' src="pav-bhaji.jpg" alt="Jane" style="width:295px; height: 200px;">
+           <p style="font-size: 20px; color: black">Pav Bhaji</p>
+        </div>
+      </div> 
+        
+  </div>
+</div>
+  
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .about-section {
+          margin: 0 auto;
+          padding: 50px;
+          text-align: center;
+          background-color: #474e5d;
+          color: white;
+          height: 500px;
+          width: 100%;
+          margin-top: 0; 
+        }
+        
+        .card{
+            
+            transition: transform .2s;
+            
+        }
+        .card:hover{
+            
+            transform: scale(1.3);
+        }
+        
+        .card a{
+            
+            text-decoration: none;
+        }
+        
+
+
+EATING & DRINKING
+Our lunchtime menu includes sandwich platters, toasties, scones and cakes. The dinner menu features all the classic favourites such as burgers, fish & chips and macaroni cheese.
+
+Check back often because we also have seasonal menus for special occasions and holidays.
+
+Also listed are our wines, cocktails and mocktails.
+
+
+
+
+
+
+
+
+
